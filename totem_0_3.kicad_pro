@@ -613,6 +613,10 @@
     [
       "4d1e609f-5432-4afb-8ee7-7d2d9aaaee48",
       "Root"
+    ],
+    [
+      "75912b64-a8d5-47fd-8dce-e34ed3b84318",
+      "MCU auxiliaries"
     ]
   ],
   "text_variables": {}
