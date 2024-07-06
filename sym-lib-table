@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "USB-C-SS")(type "KiCad")(uri "${KIPRJMOD}/TOTEMlib.sym/SS-52400-003.kicad_sym")(options "")(descr ""))
+)
