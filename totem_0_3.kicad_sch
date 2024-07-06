@@ -1678,6 +1678,12 @@
 		(uuid "fd6864a0-73a4-4dba-b60d-1c70db6ce2b1")
 	)
 	(junction
+		(at 123.19 43.18)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ffb6f96b-2f12-4be5-8e4a-6eb3eced2401")
+	)
+	(junction
 		(at 127 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1702,6 +1708,16 @@
 			(type default)
 		)
 		(uuid "142db1e4-8fef-4aac-9011-f84bab15596d")
+	)
+	(wire
+		(pts
+			(xy 123.19 43.18) (xy 124.46 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15cf96fd-19b4-42db-959b-5e502136e2a8")
 	)
 	(wire
 		(pts
@@ -2015,6 +2031,16 @@
 	)
 	(wire
 		(pts
+			(xy 123.19 43.18) (xy 123.19 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e6f3dade-2035-4f11-8bf9-f6b2791ce914")
+	)
+	(wire
+		(pts
 			(xy 127 55.88) (xy 123.19 55.88)
 		)
 		(stroke
@@ -2180,10 +2206,10 @@
 	)
 	(text "R I G H T"
 		(exclude_from_sim no)
-		(at 181.61 83.312 0)
+		(at 149.098 89.916 0)
 		(effects
 			(font
-				(size 3 3)
+				(size 5.08 5.08)
 			)
 			(justify left bottom)
 		)
@@ -2191,10 +2217,10 @@
 	)
 	(text "L E F T"
 		(exclude_from_sim no)
-		(at 112.776 82.55 0)
+		(at 146.304 90.17 0)
 		(effects
 			(font
-				(size 3 3)
+				(size 5.08 5.08)
 			)
 			(justify right bottom)
 		)
@@ -2504,6 +2530,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "VREG_L"
+		(shape input)
+		(at 124.46 43.18 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "1d2369ac-dcba-4678-b3e3-4c329a39fb78")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 134.2185 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -8117,7 +8165,6 @@
 	(sheet
 		(at 129.54 45.72)
 		(size 38.1 20.32)
-		(fields_autoplaced yes)
 		(stroke
 			(width 0.1524)
 			(type solid)
@@ -8127,7 +8174,7 @@
 		)
 		(uuid "75912b64-a8d5-47fd-8dce-e34ed3b84318")
 		(property "Sheetname" "MCU auxiliaries"
-			(at 129.54 45.0084 0)
+			(at 130.556 48.006 0)
 			(effects
 				(font
 					(size 1.27 1.27)
