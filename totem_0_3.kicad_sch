@@ -6007,7 +6007,7 @@
 	)
 	(symbol
 		(lib_id "USB-C-SS:SS-52400-003")
-		(at 176.53 124.46 0)
+		(at 179.07 124.46 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6015,8 +6015,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1c3b3f98-2837-498e-b18e-1dd3966c696f")
-		(property "Reference" "J4"
-			(at 176.53 101.6 0)
+		(property "Reference" "RJ1"
+			(at 179.07 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6024,7 +6024,7 @@
 			)
 		)
 		(property "Value" "SS-52400-003"
-			(at 176.53 104.14 0)
+			(at 179.07 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6032,7 +6032,7 @@
 			)
 		)
 		(property "Footprint" "SS-52400-003:BELFUSE_SS-52400-003"
-			(at 176.53 124.46 0)
+			(at 179.07 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6042,7 +6042,7 @@
 			)
 		)
 		(property "Datasheet" "${KIPRJMOD}/datasheets/usb-c/dr-stw-ss-52400-003.pdf"
-			(at 176.53 124.46 0)
+			(at 179.07 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6051,7 +6051,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 176.53 124.46 0)
+			(at 179.07 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6060,7 +6060,7 @@
 			)
 		)
 		(property "PARTREV" "A0"
-			(at 176.53 124.46 0)
+			(at 179.07 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6070,7 +6070,7 @@
 			)
 		)
 		(property "STANDARD" "Manufacturer Recommendations"
-			(at 176.53 124.46 0)
+			(at 179.07 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6080,7 +6080,7 @@
 			)
 		)
 		(property "MAXIMUM_PACKAGE_HEIGHT" "2.96 mm"
-			(at 176.53 124.46 0)
+			(at 179.07 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6090,7 +6090,7 @@
 			)
 		)
 		(property "MANUFACTURER" "BelFuse"
-			(at 176.53 124.46 0)
+			(at 179.07 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6100,7 +6100,7 @@
 			)
 		)
 		(property "Supplier" "https://www.digikey.co.za/en/products/detail/stewart-connector/SS-52400-003/11205655"
-			(at 176.53 124.46 0)
+			(at 179.07 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6207,7 +6207,7 @@
 		(instances
 			(project "totem_0_3"
 				(path "/4d1e609f-5432-4afb-8ee7-7d2d9aaaee48"
-					(reference "J4")
+					(reference "RJ1")
 					(unit 1)
 				)
 			)
@@ -6291,7 +6291,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2e2ddedd-f38d-41a6-b73a-9280bed87228")
-		(property "Reference" "RSW1"
+		(property "Reference" "LRSW1"
 			(at 113.03 83.058 0)
 			(effects
 				(font
@@ -6344,7 +6344,7 @@
 		(instances
 			(project ""
 				(path "/4d1e609f-5432-4afb-8ee7-7d2d9aaaee48"
-					(reference "RSW1")
+					(reference "LRSW1")
 					(unit 1)
 				)
 			)
@@ -8264,8 +8264,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9af80c0e-430f-4118-8c9b-526ca316f83c")
-		(property "Reference" "RSW2"
-			(at 189.23 83.566 0)
+		(property "Reference" "RRSW1"
+			(at 189.23 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8317,7 +8317,7 @@
 		(instances
 			(project ""
 				(path "/4d1e609f-5432-4afb-8ee7-7d2d9aaaee48"
-					(reference "RSW2")
+					(reference "RRSW1")
 					(unit 1)
 				)
 			)
@@ -8468,14 +8468,14 @@
 	(symbol
 		(lib_id "USB-C-SS:SS-52400-003")
 		(at 118.11 124.46 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b500e941-7c57-41c9-b0c0-dfe7bfaff153")
-		(property "Reference" "J3"
+		(property "Reference" "LJ1"
 			(at 118.11 101.6 0)
 			(effects
 				(font
@@ -8667,7 +8667,7 @@
 		(instances
 			(project ""
 				(path "/4d1e609f-5432-4afb-8ee7-7d2d9aaaee48"
-					(reference "J3")
+					(reference "LJ1")
 					(unit 1)
 				)
 			)
