@@ -2268,43 +2268,43 @@
 		)
 	)
 	(junction
-		(at 171.45 50.8)
+		(at 171.45 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "49ce77b6-65f9-4c1d-b84b-2db3f7b1f18b")
 	)
 	(junction
-		(at 171.45 55.88)
+		(at 171.45 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "84fbdc65-31a0-4aed-a51b-bdbd18564a69")
 	)
 	(junction
-		(at 171.45 53.34)
+		(at 171.45 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a20cd7e2-3151-47d6-b559-1fbe435f1825")
 	)
 	(junction
-		(at 172.72 40.64)
+		(at 172.72 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d27a2558-5d5f-4db0-98ba-be1a252f1136")
 	)
 	(junction
-		(at 127 55.88)
+		(at 127 58.42)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e83699c0-0d54-45cb-b774-22429ff39f1e")
 	)
 	(junction
-		(at 127 50.8)
+		(at 127 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fd6864a0-73a4-4dba-b60d-1c70db6ce2b1")
 	)
 	(junction
-		(at 127 53.34)
+		(at 127 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ffd4911b-7e8d-40d1-b931-2c987668eebd")
@@ -2389,7 +2389,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 50.8) (xy 175.26 50.8)
+			(xy 171.45 53.34) (xy 175.26 53.34)
 		)
 		(stroke
 			(width 0)
@@ -2399,7 +2399,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 53.34) (xy 171.45 55.88)
+			(xy 171.45 55.88) (xy 171.45 58.42)
 		)
 		(stroke
 			(width 0)
@@ -2419,7 +2419,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 53.34) (xy 175.26 53.34)
+			(xy 171.45 55.88) (xy 175.26 55.88)
 		)
 		(stroke
 			(width 0)
@@ -2459,7 +2459,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 50.8) (xy 123.19 50.8)
+			(xy 127 53.34) (xy 123.19 53.34)
 		)
 		(stroke
 			(width 0)
@@ -2499,7 +2499,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 40.64) (xy 172.72 43.18)
+			(xy 172.72 43.18) (xy 172.72 45.72)
 		)
 		(stroke
 			(width 0)
@@ -2529,7 +2529,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 40.64) (xy 172.72 40.64)
+			(xy 171.45 43.18) (xy 172.72 43.18)
 		)
 		(stroke
 			(width 0)
@@ -2539,7 +2539,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 43.18) (xy 172.72 43.18)
+			(xy 175.26 45.72) (xy 172.72 45.72)
 		)
 		(stroke
 			(width 0)
@@ -2549,7 +2549,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 48.26) (xy 171.45 50.8)
+			(xy 171.45 50.8) (xy 171.45 53.34)
 		)
 		(stroke
 			(width 0)
@@ -2639,7 +2639,7 @@
 	)
 	(wire
 		(pts
-			(xy 123.19 48.26) (xy 127 48.26)
+			(xy 123.19 50.8) (xy 127 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2739,7 +2739,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 55.88) (xy 127 58.42)
+			(xy 127 58.42) (xy 127 60.96)
 		)
 		(stroke
 			(width 0)
@@ -2749,7 +2749,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 50.8) (xy 127 53.34)
+			(xy 127 53.34) (xy 127 55.88)
 		)
 		(stroke
 			(width 0)
@@ -2789,7 +2789,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 58.42) (xy 171.45 55.88)
+			(xy 171.45 60.96) (xy 171.45 58.42)
 		)
 		(stroke
 			(width 0)
@@ -2819,7 +2819,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 48.26) (xy 171.45 48.26)
+			(xy 175.26 50.8) (xy 171.45 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2849,7 +2849,7 @@
 	)
 	(wire
 		(pts
-			(xy 172.72 40.64) (xy 175.26 40.64)
+			(xy 172.72 43.18) (xy 175.26 43.18)
 		)
 		(stroke
 			(width 0)
@@ -2909,7 +2909,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 55.88) (xy 175.26 55.88)
+			(xy 171.45 58.42) (xy 175.26 58.42)
 		)
 		(stroke
 			(width 0)
@@ -2919,7 +2919,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 55.88) (xy 123.19 55.88)
+			(xy 127 58.42) (xy 123.19 58.42)
 		)
 		(stroke
 			(width 0)
@@ -2999,7 +2999,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 48.26) (xy 127 50.8)
+			(xy 127 50.8) (xy 127 53.34)
 		)
 		(stroke
 			(width 0)
@@ -3039,7 +3039,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 53.34) (xy 127 55.88)
+			(xy 127 55.88) (xy 127 58.42)
 		)
 		(stroke
 			(width 0)
@@ -3099,7 +3099,7 @@
 	)
 	(wire
 		(pts
-			(xy 127 53.34) (xy 123.19 53.34)
+			(xy 127 55.88) (xy 123.19 55.88)
 		)
 		(stroke
 			(width 0)
@@ -3129,7 +3129,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 50.8) (xy 171.45 53.34)
+			(xy 171.45 53.34) (xy 171.45 55.88)
 		)
 		(stroke
 			(width 0)
@@ -3428,9 +3428,31 @@
 			)
 		)
 	)
+	(global_label "QSPI_SD3_R"
+		(shape input)
+		(at 213.36 22.86 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "0a2a9f87-fef4-41db-b9b4-b8a8e88b62fd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 213.36 14.2831 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "USB_L_D+"
 		(shape input)
-		(at 107.95 20.32 90)
+		(at 107.95 22.86 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3440,7 +3462,7 @@
 		)
 		(uuid "0a5c0a2b-6b35-48eb-bb43-2fa391b5f933")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 107.95 11.4995 90)
+			(at 107.95 14.0395 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3474,7 +3496,7 @@
 	)
 	(global_label "XIN_R"
 		(shape input)
-		(at 228.6 20.32 90)
+		(at 228.6 22.86 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3484,7 +3506,7 @@
 		)
 		(uuid "0b915ec1-8c76-444c-afdb-44f1f53903b4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 228.6 11.9524 90)
+			(at 228.6 14.4924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3562,7 +3584,7 @@
 	)
 	(global_label "GND_R"
 		(shape input)
-		(at 266.7 45.72 0)
+		(at 266.7 48.26 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3572,7 +3594,7 @@
 		)
 		(uuid "165f8080-afd0-4527-832e-1e60a7ba238c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 275.7933 45.72 0)
+			(at 275.7933 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3584,7 +3606,7 @@
 	)
 	(global_label "3V3_REG_L"
 		(shape input)
-		(at 127 58.42 270)
+		(at 127 60.96 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3594,7 +3616,7 @@
 		)
 		(uuid "17335439-e651-4070-a742-e5223fde3c6a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 127 71.5651 90)
+			(at 127 74.1051 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3749,6 +3771,28 @@
 		(uuid "1f28b97d-edd7-478f-98ef-81a131de17f3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 44.6246 -75.0813 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "QSPI_SD2_R"
+		(shape input)
+		(at 210.82 22.86 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "1fc0cb75-f3f6-4941-9889-cc221b3cb7da")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 210.82 14.2831 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3936,7 +3980,7 @@
 	)
 	(global_label "XIN_L"
 		(shape input)
-		(at 69.85 20.32 90)
+		(at 69.85 22.86 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3946,7 +3990,7 @@
 		)
 		(uuid "2771181c-3ec8-4621-9d30-79c52a4f3d29")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 69.85 12.1943 90)
+			(at 69.85 14.7343 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4066,6 +4110,28 @@
 			)
 		)
 	)
+	(global_label "QSPI_SD1_R"
+		(shape input)
+		(at 208.28 22.86 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "374f3e40-0826-4abd-a003-fabbabff41fa")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 208.28 14.2831 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "VCC_L"
 		(shape input)
 		(at 111.76 148.59 0)
@@ -4112,7 +4178,7 @@
 	)
 	(global_label "VREG_R"
 		(shape input)
-		(at 171.45 40.64 180)
+		(at 171.45 43.18 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4122,7 +4188,7 @@
 		)
 		(uuid "3a12e461-3ebd-4b02-bcc2-bf84d44df7ab")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 161.4496 40.64 0)
+			(at 161.4496 43.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4154,6 +4220,28 @@
 			)
 		)
 	)
+	(global_label "QSPI_SS_L"
+		(shape input)
+		(at 97.79 22.86 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "3d59a4c1-1bfd-4c52-b64f-c0eed4f89161")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 97.79 15.1902 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "GND_L"
 		(shape input)
 		(at 26.67 153.67 270)
@@ -4172,6 +4260,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "QSPI_SD3_L"
+		(shape input)
+		(at 85.09 22.86 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "41d8c9d3-aa63-4818-ac04-9daaf1285335")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 85.09 14.4282 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -4308,6 +4418,28 @@
 			)
 		)
 	)
+	(global_label "QSPI_SD0_R"
+		(shape input)
+		(at 205.74 22.86 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "4f36fe8e-63d4-4586-96d5-6cdba2c6daf1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 205.74 14.2831 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "VCC_R"
 		(shape input)
 		(at 168.91 148.336 0)
@@ -4398,7 +4530,7 @@
 	)
 	(global_label "XOUT_L"
 		(shape input)
-		(at 59.69 20.32 90)
+		(at 59.69 22.86 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4408,7 +4540,7 @@
 		)
 		(uuid "591a194e-7ddc-4cdc-a255-b395672b8688")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 59.69 10.501 90)
+			(at 59.69 13.041 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4750,7 +4882,7 @@
 	)
 	(global_label "XOUT_R"
 		(shape input)
-		(at 238.76 20.32 90)
+		(at 238.76 22.86 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4760,7 +4892,29 @@
 		)
 		(uuid "762d8ea6-22cf-4100-bb79-120bb89fed0b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 238.76 10.2591 90)
+			(at 238.76 12.7991 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "QSPI_SS_R"
+		(shape input)
+		(at 200.66 22.86 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "76f9deab-5b0d-475b-a49a-9f1e90cca9dc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 200.66 15.0451 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4816,7 +4970,7 @@
 	)
 	(global_label "USB_R_D-"
 		(shape input)
-		(at 193.04 20.32 90)
+		(at 193.04 22.86 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4826,7 +4980,7 @@
 		)
 		(uuid "7b64e5a0-b864-494f-966a-a19e0ec7bc1d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 193.04 11.3302 90)
+			(at 193.04 13.8702 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4882,7 +5036,7 @@
 	)
 	(global_label "GND_L"
 		(shape input)
-		(at 31.75 45.72 180)
+		(at 31.75 48.26 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4892,7 +5046,7 @@
 		)
 		(uuid "7d64a471-fab6-4d20-8314-e179f235b3ed")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 22.8986 45.72 0)
+			(at 22.8986 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4970,7 +5124,7 @@
 	)
 	(global_label "USB_R_D+"
 		(shape input)
-		(at 190.5 20.32 90)
+		(at 190.5 22.86 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4980,7 +5134,7 @@
 		)
 		(uuid "83d55143-cef6-4e8e-91d6-88ed0b7d26fc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 190.5 11.3302 90)
+			(at 190.5 13.8702 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5168,7 +5322,7 @@
 	)
 	(global_label "USB_L_D-"
 		(shape input)
-		(at 105.41 20.32 90)
+		(at 105.41 22.86 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5178,7 +5332,7 @@
 		)
 		(uuid "9736cd71-b18c-405a-adff-f93196751224")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 105.41 11.4995 90)
+			(at 105.41 14.0395 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5388,7 +5542,7 @@
 	)
 	(global_label "3V3_REG_R"
 		(shape input)
-		(at 171.45 58.42 270)
+		(at 171.45 60.96 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -5398,7 +5552,7 @@
 		)
 		(uuid "a7b12fa4-332d-4b92-8304-b21d81cc2246")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 171.45 71.807 90)
+			(at 171.45 74.347 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5826,6 +5980,72 @@
 			)
 		)
 	)
+	(global_label "QSPI_SCLK_R"
+		(shape input)
+		(at 215.9 22.86 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "cf56eb04-b8c3-4d92-8db6-629bcecb2a5a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 215.9 13.6299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "QSPI_SD0_L"
+		(shape input)
+		(at 92.71 22.86 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "d60dd961-69c9-4be4-947d-ba9c47b1e30b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 92.71 14.4282 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "QSPI_SCLK_L"
+		(shape input)
+		(at 82.55 22.86 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "d7f269b6-a6bc-43d9-b4e3-70a7f9a6f459")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 82.55 13.775 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "GND_R"
 		(shape input)
 		(at 168.91 160.02 0)
@@ -6046,6 +6266,28 @@
 			)
 		)
 	)
+	(global_label "QSPI_SD2_L"
+		(shape input)
+		(at 87.63 22.86 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "e35c58be-b46b-4b22-a5e5-7372d9e49ac7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 87.63 14.4282 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "GND_L"
 		(shape input)
 		(at 40.386 116.84 270)
@@ -6086,6 +6328,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "QSPI_SD1_L"
+		(shape input)
+		(at 90.17 22.86 90)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+			(justify left)
+		)
+		(uuid "e697d52f-e46e-44f2-ab50-2b36b25e4b3f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 90.17 14.4282 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -7897,7 +8161,7 @@
 	)
 	(symbol
 		(lib_id "MCU_RaspberryPi:RP2040")
-		(at 77.47 45.72 270)
+		(at 77.47 48.26 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7906,7 +8170,7 @@
 		(fields_autoplaced yes)
 		(uuid "5386af25-4a09-4169-ac4a-b2e43e50fcce")
 		(property "Reference" "U3"
-			(at 33.02 47.9141 0)
+			(at 33.02 50.4541 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7915,7 +8179,7 @@
 			)
 		)
 		(property "Value" "RP2040"
-			(at 30.48 47.9141 0)
+			(at 30.48 50.4541 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7924,7 +8188,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm"
-			(at 77.47 45.72 0)
+			(at 77.47 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7933,7 +8197,7 @@
 			)
 		)
 		(property "Datasheet" "${KIPRJMOD}/datasheets/rp2040/rp2040-datasheet.pdf"
-			(at 77.47 45.72 0)
+			(at 77.47 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7942,7 +8206,7 @@
 			)
 		)
 		(property "Description" "A microcontroller by Raspberry Pi"
-			(at 77.47 45.72 0)
+			(at 77.47 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8410,7 +8674,7 @@
 	)
 	(symbol
 		(lib_id "MCU_RaspberryPi:RP2040")
-		(at 220.98 45.72 90)
+		(at 220.98 48.26 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8419,7 +8683,7 @@
 		(dnp no)
 		(uuid "68fd392b-fba1-48dc-884b-fba0e3098dd0")
 		(property "Reference" "U4"
-			(at 265.43 47.9141 0)
+			(at 265.43 50.4541 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8428,7 +8692,7 @@
 			)
 		)
 		(property "Value" "RP2040"
-			(at 267.97 47.9141 0)
+			(at 267.97 50.4541 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8437,7 +8701,7 @@
 			)
 		)
 		(property "Footprint" "Package_DFN_QFN:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm"
-			(at 220.98 45.72 0)
+			(at 220.98 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8446,7 +8710,7 @@
 			)
 		)
 		(property "Datasheet" "${KIPRJMOD}/datasheets/rp2040/rp2040-datasheet.pdf"
-			(at 220.98 45.72 0)
+			(at 220.98 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8455,7 +8719,7 @@
 			)
 		)
 		(property "Description" "A microcontroller by Raspberry Pi"
-			(at 220.98 45.72 0)
+			(at 220.98 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
