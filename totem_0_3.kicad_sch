@@ -1120,108 +1120,6 @@
 				)
 			)
 		)
-		(symbol "Mechanical:MountingHole_Pad"
-			(pin_numbers hide)
-			(pin_names
-				(offset 1.016) hide)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "H"
-				(at 0 6.35 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Value" "MountingHole_Pad"
-				(at 0 4.445 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Mounting Hole with connection"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "mounting hole"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "MountingHole*Pad*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "MountingHole_Pad_0_1"
-				(circle
-					(center 0 1.27)
-					(radius 1.27)
-					(stroke
-						(width 1.27)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "MountingHole_Pad_1_1"
-				(pin input line
-					(at 0 -2.54 90)
-					(length 2.54)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "Switch:SW_Push"
 			(pin_numbers hide)
 			(pin_names
@@ -2481,16 +2379,6 @@
 	)
 	(wire
 		(pts
-			(xy 169.926 130.81) (xy 169.926 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "07d69ca5-f6e3-4a26-9bd0-40b009531615")
-	)
-	(wire
-		(pts
 			(xy 62.484 -55.88) (xy 65.532 -55.88)
 		)
 		(stroke
@@ -2498,26 +2386,6 @@
 			(type default)
 		)
 		(uuid "0a3f1e00-9650-48a0-9ea7-4666325ca804")
-	)
-	(wire
-		(pts
-			(xy 111.252 134.62) (xy 113.03 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0fed6e94-679d-4a68-9f2e-b63fc8ab8afd")
-	)
-	(wire
-		(pts
-			(xy 111.252 132.08) (xy 111.252 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "10276b45-f69e-4d9e-a2bd-1ce53d6e4316")
 	)
 	(wire
 		(pts
@@ -2881,16 +2749,6 @@
 	)
 	(wire
 		(pts
-			(xy 104.394 134.62) (xy 106.172 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e803e6c-f81a-4029-b4e8-96dffc9d9dc1")
-	)
-	(wire
-		(pts
 			(xy 127 50.8) (xy 127 53.34)
 		)
 		(stroke
@@ -2981,16 +2839,6 @@
 	)
 	(wire
 		(pts
-			(xy 106.172 134.62) (xy 106.172 132.08)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a7d8382e-cadc-46f7-88ab-bb66e2ec9c68")
-	)
-	(wire
-		(pts
 			(xy 44.704 -66.802) (xy 44.704 -63.5)
 		)
 		(stroke
@@ -3068,16 +2916,6 @@
 			(type default)
 		)
 		(uuid "b863d2d1-27d2-428c-b21d-f51c97261017")
-	)
-	(wire
-		(pts
-			(xy 163.068 133.35) (xy 164.846 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b8667de9-258d-40b4-ab07-416f73995e40")
 	)
 	(wire
 		(pts
@@ -3191,16 +3029,6 @@
 	)
 	(wire
 		(pts
-			(xy 164.846 133.35) (xy 164.846 130.81)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "da012ee2-7a7d-482a-869d-ec8e28cee64e")
-	)
-	(wire
-		(pts
 			(xy 233.934 -71.628) (xy 233.934 -68.58)
 		)
 		(stroke
@@ -3278,16 +3106,6 @@
 			(type default)
 		)
 		(uuid "e9557693-d69c-4453-94f2-c28920b9dc30")
-	)
-	(wire
-		(pts
-			(xy 169.926 133.35) (xy 172.72 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e975ea48-3cb5-4129-97fb-5bbfaeccfde8")
 	)
 	(wire
 		(pts
@@ -3474,19 +3292,6 @@
 		)
 		(uuid "6fe8697d-2195-4d57-8b58-db9bc2f97c95")
 	)
-	(text "B A T T E R Y"
-		(exclude_from_sim no)
-		(at 94.996 140.97 0)
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "7b0749ae-c93a-4bce-91ec-5ac34cf47cd4")
-	)
 	(text "P O W E R\nS W I T C H"
 		(exclude_from_sim no)
 		(at 151.384 106.934 0)
@@ -3510,19 +3315,6 @@
 			(justify left bottom)
 		)
 		(uuid "e093333b-8a47-44e6-bdbf-4d89beff5b26")
-	)
-	(text "B A T T E R Y"
-		(exclude_from_sim no)
-		(at 153.924 140.716 0)
-		(effects
-			(font
-				(size 1.5 1.5)
-				(thickness 0.3)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "e1f69028-0ed8-414a-b335-840a8483f3f7")
 	)
 	(text "L E F T"
 		(exclude_from_sim no)
@@ -4802,28 +4594,6 @@
 			)
 		)
 	)
-	(global_label "VBAT_R"
-		(shape input)
-		(at 163.068 133.35 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "683af09c-c12f-41f9-be12-cb4b98472ecc")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 154.0025 133.2706 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "VCC_L"
 		(shape input)
 		(at 64.77 -50.8 0)
@@ -5198,28 +4968,6 @@
 			)
 		)
 	)
-	(global_label "GND_L"
-		(shape input)
-		(at 113.03 134.62 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "83a2ed2e-2234-4bc3-aed9-34ba17b54f05")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 121.3093 134.5406 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "USB_R_D+"
 		(shape input)
 		(at 190.5 20.32 90)
@@ -5255,28 +5003,6 @@
 		(uuid "84da822b-c8ed-4c93-b9b0-b9b40742b084")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 54.61 125.6914 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "VBAT_L"
-		(shape input)
-		(at 104.394 134.62 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "85049022-0bef-4240-a6e4-1f8a2de2e0e5")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 95.5704 134.5406 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5414,28 +5140,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "GND_R"
-		(shape input)
-		(at 172.72 133.35 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "9060b75d-709d-4372-9847-9cd3728beb45")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 181.2412 133.2706 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -7107,73 +6811,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 106.172 129.54 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "12dbc54d-5f97-4591-b70c-034f3004e063")
-		(property "Reference" "BAT+1"
-			(at 102.87 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "+"
-			(at 102.616 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TOTEMlib:BatteryPad"
-			(at 106.172 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 106.172 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 106.172 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "20e4da20-e5cc-425a-b711-7469407761b8")
-		)
-		(instances
-			(project ""
-				(path "/4d1e609f-5432-4afb-8ee7-7d2d9aaaee48"
-					(reference "BAT+1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 251.46 97.79 0)
 		(unit 1)
@@ -7375,73 +7012,6 @@
 			(project ""
 				(path "/4d1e609f-5432-4afb-8ee7-7d2d9aaaee48"
 					(reference "PSW2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 111.252 129.54 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1f41b422-2585-4a05-88b0-cae50dd11d90")
-		(property "Reference" "BATGND1"
-			(at 114.3 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "-"
-			(at 114.554 129.5399 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TOTEMlib:BatteryPad"
-			(at 111.252 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 111.252 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 111.252 129.54 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6ed48669-2bff-470e-9d3d-d095119f4b2f")
-		)
-		(instances
-			(project ""
-				(path "/4d1e609f-5432-4afb-8ee7-7d2d9aaaee48"
-					(reference "BATGND1")
 					(unit 1)
 				)
 			)
@@ -9074,73 +8644,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 169.926 128.27 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "6bc50ba9-569d-46aa-a1e8-9ac691019328")
-		(property "Reference" "BATGND2"
-			(at 172.974 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "-"
-			(at 173.228 128.2699 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TOTEMlib:BatteryPad"
-			(at 169.926 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 169.926 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 169.926 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c9f515bf-addc-4cb4-9825-425c87ca0688")
-		)
-		(instances
-			(project ""
-				(path "/4d1e609f-5432-4afb-8ee7-7d2d9aaaee48"
-					(reference "BATGND2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Switch:SW_Push_45deg")
 		(at 66.04 114.3 0)
 		(unit 1)
@@ -9679,73 +9182,6 @@
 			(project ""
 				(path "/4d1e609f-5432-4afb-8ee7-7d2d9aaaee48"
 					(reference "SWL13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Mechanical:MountingHole_Pad")
-		(at 164.846 128.27 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "969fece3-d6b6-4c0e-912f-511bd3a6f57d")
-		(property "Reference" "BAT+2"
-			(at 161.544 127 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "+"
-			(at 161.29 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "TOTEMlib:BatteryPad"
-			(at 164.846 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 164.846 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 164.846 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1f1c04e3-a4b1-4ec0-806a-fac5a6c2b807")
-		)
-		(instances
-			(project ""
-				(path "/4d1e609f-5432-4afb-8ee7-7d2d9aaaee48"
-					(reference "BAT+2")
 					(unit 1)
 				)
 			)
