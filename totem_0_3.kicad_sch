@@ -7834,7 +7834,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf"
+		(property "Datasheet" "${KIPRJMOD}/datasheets/rp2040/rp2040-datasheet.pdf"
 			(at -35.56 74.93 0)
 			(effects
 				(font
@@ -8347,7 +8347,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf"
+		(property "Datasheet" "${KIPRJMOD}/datasheets/rp2040/rp2040-datasheet.pdf"
 			(at 327.66 68.58 0)
 			(effects
 				(font
