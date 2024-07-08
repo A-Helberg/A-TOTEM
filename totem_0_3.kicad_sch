@@ -2798,7 +2798,7 @@
 	)
 	(text "RP2040 MCU"
 		(exclude_from_sim no)
-		(at 259.842 17.78 0)
+		(at 262.382 17.78 0)
 		(effects
 			(font
 				(size 2.286 2.286)
