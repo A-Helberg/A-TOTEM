@@ -1,4 +1,3 @@
-
 (footprint GCT_USB4056-03-A_REVA2 (layer F.Cu) (tedit 668BA091)
   (descr "")
   (fp_text reference REF** (at -1.825 -10.635 0) (layer F.SilkS)

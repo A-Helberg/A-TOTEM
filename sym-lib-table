@@ -3,5 +3,4 @@
   (lib (name "USB-C-SS")(type "KiCad")(uri "${KIPRJMOD}/TOTEMlib.sym/SS-52400-003.kicad_sym")(options "")(descr ""))
   (lib (name "GCT_USB4056-03-A_REVA2")(type "KiCad")(uri "${KIPRJMOD}/TOTEMlib.sym/USB4056-03-A_REVA2.kicad_sym")(options "")(descr ""))
   (lib (name "TOTEM")(type "KiCad")(uri "${KIPRJMOD}/TOTEMlib.sym/totem.kicad_sym")(options "")(descr ""))
-  (lib (name "TPS2120YFPT")(type "KiCad")(uri "${KIPRJMOD}/TOTEMlib.sym/TPS2120YFPT.kicad_sym")(options "")(descr ""))
 )
